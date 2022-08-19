@@ -1,0 +1,63 @@
+{
+  "common": {
+    "operationExplanation": "操作説明",
+    "companyProfile": "会社概要",
+    "term": "利用規約",
+    "guildeLine": "ガイドライン",
+    "privacyPolicy": "プライバシーポリシー",
+    "law": "特定商取引法に基づく表示",
+    "inquiry": "お問い合わせ",
+    "FAQ": "よくある質問",
+    "AppName": "Mariene",
+    "coppyRight": "Copyrights ©︎ Mariene Co., Ltd. All Rights Reserved.",
+    "register": "会員登録",
+    "login": "ログイン",
+    "and": "及び",
+    "agree": "に同意する"
+  },
+  "pages": {
+    "top": {
+      "appInfo": "アプリ情報",
+      "welcomeTitle": "一緒に歩んでいく人　マリエーヌならきっとめぐり逢える。",
+      "pricing": "0000円 / 月ではじめる婚活マッチングアプリ",
+      "memberIntroductionFunc": "会員様ご紹介機能",
+      "verifyByIdCard": "身分証明書提出で安心",
+      "matchingInSameArea": "同じエリア内でマッチング",
+      "calculateCompatibility": "趣味・嗜好から相性度を計算"
+    },
+    "register": {
+      "validPass": "パスワードは８文字以上で、半角英字(大文字/小文字)・半角数字・記号（!”#$%&’()*+,-./:;<=>?@[]^_`{|}~）をそれぞれ１つ以上使用して入力してください。",
+      "registerBtn": "登録",
+      "fullName": "氏名※",
+      "kanaName": "氏名（かな）※",
+      "birthDay": "生年月日※",
+      "phone": "携帯番号",
+      "address": "住所",
+      "postCode": "郵便番号",
+      "prefectures": "都道府県",
+      "municipalities": "市区町村",
+      "townArea": "町域",
+      "chomeAdess": "丁目番地",
+      "building": "建物名",
+      "residentialArea": "居住地エリア",
+      "password": "パスワード",
+      "confirmPassword": "パスワード（確認用）",
+      "warningCannotChangedAfterRegister": "※登録後変更不可",
+      "email": "メールアドレス",
+      "id": "会員ID"
+    },
+    "registerCompleted": {
+      "title": "新規アカウント登録完了",
+      "sentViaEmail": "会員登録完了メールを送信しました。",
+      "notReceived": "00時間以内にメールが届かない場合は",
+      "login": "ログイン",
+      "here": "こちら",
+      "contactUs": "にお問い合わせください。"
+    },
+    "forgotPassWord": {
+      "title": "パスワード再設定用メール送信",
+      "label": "メールアドレス",
+      "send": "送信"
+    }
+  }
+}

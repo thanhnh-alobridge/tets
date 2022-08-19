@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'BIZUDGothicBold';
+  src: local('BIZUDGothicBold'), url(./fonts/BIZUDGothic-Bold.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* @font-face {
+  font-family: 'BIZUDGothicBold';
+  src: local('BIZUDGothicBold'), url(./fonts/NotoSansJP-Medium.otf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+} */
+@font-face {
+  font-family: 'BIZUDGothicRegular';
+  src: local('BIZUDGothicRegular'), url(./fonts/BIZUDGothic-Regular.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: BIZUDGothicBold, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.1em;
+  font-size: 16px;
+  color: '#555';
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
